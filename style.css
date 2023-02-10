@@ -205,4 +205,75 @@ h2{
 }
 /*Mindset part end*/
 
+/*Footer part start*/
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 130px;
+    background-color: black;
+    height: 550px;
+    width:100%;
+}
+
+.future{
+    margin-top: 80px;
+    margin-left: 210px;
+}
+
+.future h1{
+    color: white;
+    text-align: left;
+}
+
+.subscribe{
+    margin-top: 100px;
+    color: white;
+    margin-right: 210px;
+}
+
+.future p{
+    color: white;
+    width: 380px;
+    line-height: 0.7cm;
+}
+
+.future img{
+    margin-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.future img:nth-last-child(3){
+    padding-left: 0px;
+    
+}
+
+.subscribe input{
+    background-color: #151414;
+    border-radius: 9px;
+    padding: 20px 80px 20px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    border-color: white;
+}
+
+.subscribe button{
+    text-decoration: none;
+    background-color: white;
+    padding: 18px 15px;
+    border-radius: 5px;
+    border: none;
+    color: #f15b22;
+    font-weight: 700;
+    font-size: 20px;
+    text-align:center;
+    width: 155px;
+    display: block;
+}
+
+/*Footer part end*/
+
+
 
