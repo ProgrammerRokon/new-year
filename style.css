@@ -166,4 +166,43 @@ h2{
 }
 /*Bonus part end*/
 
+/*Mindset part start*/
+.mindset{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    flex-basis: 50px;
+}
+
+.watch{
+    background-image: linear-gradient(to right, rgba(241, 91, 34, 1), rgba(241, 91, 34, 0)), url("images/watch.png");
+    background-size: cover;
+    width: 1200px;
+    height: 300px;
+    border-radius: 8px;
+    flex-basis: 930px;
+}
+
+.watch h2{
+    font-size: 40px;
+    color: white;
+    padding-left: 65px;
+    padding-top: 25px;
+}
+
+.watch button{
+    text-decoration: none;
+    background-color: white;
+    padding: 18px 15px;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    font-weight: 700;
+    font-size: 20px;
+    text-align:center;
+    width: 155px;
+    margin-left: 66px;
+}
+/*Mindset part end*/
+
 
