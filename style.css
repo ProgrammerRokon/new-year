@@ -125,3 +125,45 @@ h2{
 }
 /*My plans part end*/
 
+/*Bonus part start*/
+.experience{
+    margin-top: 120px;
+}
+
+.experience h1{
+    text-align:center;
+    font-size: 35px; 
+}
+
+.experience h1{
+    color: #16D887;
+}
+
+.experience1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.experience h3 {
+    color: orange;
+}
+
+.experience1-width{
+    width: 30%;
+    height: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#full-stack {
+    border-left: 7px solid tomato;
+    box-shadow: 5px 7px 40px gray;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+    box-shadow: 5px 7px 40px gray;
+}
+/*Bonus part end*/
+
+
